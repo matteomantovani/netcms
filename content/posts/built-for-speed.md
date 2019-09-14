@@ -11,7 +11,7 @@ Awake is fast for a couple different reasons. It both capitalizes on the platfor
 
 ## The JAM Stack
 
-https://youtu.be/hE2Ira-Cwxo
+![alt text] (https://youtu.be/hE2Ira-Cwxo)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hE2Ira-Cwxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
