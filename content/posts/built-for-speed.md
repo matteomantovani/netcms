@@ -17,7 +17,7 @@ Awake is fast for a couple different reasons. It both capitalizes on the platfor
 
 T`he JAM stack is a way`
 
-![]()
+[![](http://img.youtube.com/vi/hE2Ira-Cwxo/0.jpg)](http://www.youtube.com/watch?v=hE2Ira-Cwxo "")
 
 `of building websites that compile down basically to html, css, and javascript and then is served over a CDN. API's are then sprinkled in to add more advanced functionality where needed. Because there is no server, no computations to run, initial response time is like lightening.`
 
